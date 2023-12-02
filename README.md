@@ -1,2 +1,2 @@
 # github-workshop2
-This is a test for github workshop 2 - main
+This is a test for github workshop 2 - jose-feature branch
