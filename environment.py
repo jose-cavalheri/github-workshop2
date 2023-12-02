@@ -1,3 +1,6 @@
+# this was just a test to see if I could get the environment to work
+
+#Environment: main_development
 import sqlite3
 
 # Connect to the database
